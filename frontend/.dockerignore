@@ -1,0 +1,11 @@
+node_modules
+.git
+.eslint*
+.prettier*
+.git*
+.vscode
+README.md
+Dockerfile*
+docker-compose.yml
+public
+build
